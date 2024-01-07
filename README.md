@@ -1,16 +1,10 @@
-# chatgpt
+# Flutter ChatGPT App
 
-A new Flutter project.
+This repository contains the code for a chat application built with Flutter that interfaces with OpenAI's ChatGPT using the `chat_gpt_sdk` package. The app provides a smooth and engaging user experience, leveraging the `dash_chat_2` package to create a chat interface where users can converse with the AI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Chat Interface**: Utilizes `dash_chat_2` for a clean and intuitive chat UI.
+- **ChatGPT Integration**: Integrates with ChatGPT using `chat_gpt_sdk` to enable intelligent conversation.
+- **Real-Time Interaction**: Sends and receives messages in real-time with AI.
+- **Cross-Platform**: Runs on both Android and iOS thanks to Flutter's cross-platform capabilities.
